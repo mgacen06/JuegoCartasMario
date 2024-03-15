@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JuegoCartasMario</string>
+    <string name="imgoculta">imgoculta</string>
+    <string name="j2_0">J2: 0</string>
+    <string name="j1_0">J1: 0</string>
+    <string name="imgFondo" />
+</resources>

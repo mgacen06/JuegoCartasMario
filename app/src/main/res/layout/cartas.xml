@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:clickable="false"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView00"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingStart="20dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="0dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion"
+            tools:ignore="DuplicateSpeakableTextCheck" />
+
+        <ImageView
+            android:id="@+id/imageView01"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView02"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView03"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingStart="0dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="20dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingStart="20dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="0dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingStart="0dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="20dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView20"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingStart="20dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="0dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView21"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView22"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView23"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingStart="0dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="20dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/imageView30"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingStart="20dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="0dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView31"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView32"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+
+        <ImageView
+            android:id="@+id/imageView33"
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:contentDescription="@string/imgoculta"
+            android:onClick="seleccionar"
+            android:paddingStart="0dp"
+            android:paddingTop="5dp"
+            android:paddingEnd="20dp"
+            android:paddingBottom="5dp"
+            android:src="@drawable/enchiridion" />
+    </LinearLayout>
+</LinearLayout>
